@@ -45,7 +45,7 @@ to precede - предшествовать
 an essential - сущность, существенный
 a salvage - спасение
 an impact - воздействие, удар
-stiff - жесткий
+stiff - жесткий 
 an hairdo - прическа
 treacherous - вероломный
 a witness - свидетель
@@ -56,3 +56,8 @@ gain - усилие, прибыль
 to reveal - выявить
 a tongue - язык
 an opportunity - возможность
+further - далее, дальше
+according - в соответствии
+an authority - власть, авторитет
+to procrastinate - мешкать, отсрочивать
+specific - конкретный

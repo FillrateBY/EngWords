@@ -74,3 +74,6 @@ a rehearse - репетировать
 a chairman - председатель
 a gesture - жест
 
+to behave - вести себя
+significant, considerable - значительный
+
